@@ -6,4 +6,4 @@ spring:
     name: config-client # 应用名称
 
 # 自定义配置
-name: config-client-dev-1.0
+name: config-client-dev-2.0
